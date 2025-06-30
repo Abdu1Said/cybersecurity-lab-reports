@@ -2,7 +2,6 @@
 
 **Author:** Abdulrahman Said  
 **Date:** 06/29/2025
-
 **Target IP:** 192.168.21.128  
 **Service:** FTP (Port 21)  
 **Tools Used:** hydra, nmap, echo, Linux CLI
