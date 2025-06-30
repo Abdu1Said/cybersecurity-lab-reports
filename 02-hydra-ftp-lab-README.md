@@ -1,7 +1,7 @@
 # 🔐 Hydra FTP Brute-Force Attack Lab Report
 
 **Author:** Abdulrahman Said  
-**Date:** 2025-06-29  
+**Date:** 06/29/2025
 **Target IP:** 192.168.21.128  
 **Service:** FTP (Port 21)  
 **Tools Used:** hydra, nmap, echo, Linux CLI
