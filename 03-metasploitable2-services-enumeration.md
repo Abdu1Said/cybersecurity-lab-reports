@@ -4,7 +4,7 @@ author: "Abdulrahman Said"
 
 date: "June 30, 2025"
 
-tools: ["Kali Linux", "OpenSSH", "cURL", "Netstat"]
+tools: [Kali Linux, OpenSSH, cURL, Netstat]
 ---
 
 # 🔐 Metasploitable2 – Service Enumeration and Preliminary Analysis
