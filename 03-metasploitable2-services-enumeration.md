@@ -111,11 +111,11 @@ This report documents the initial reconnaissance and service enumeration of the 
 
 | Action | Description |
 |--------|-------------|
-| 🔐 phpMyAdmin | Attempt login with common credentials |
-| 🧪 WebDAV | Try uploading reverse shell (PHP) |
-| 🧬 DVWA / Mutillidae | Test for SQLi, XSS, LFI, and command injection |
-| 🧠 Tomcat Manager | Check for remote WAR deployment via 8180 |
-| 🧰 DRb | Research and test Metasploit DRb modules or Ruby scripts |
+|  phpMyAdmin | Attempt login with common credentials |
+|  WebDAV | Try uploading reverse shell (PHP) |
+|  DVWA / Mutillidae | Test for SQLi, XSS, LFI, and command injection |
+|  Tomcat Manager | Check for remote WAR deployment via 8180 |
+|  DRb | Research and test Metasploit DRb modules or Ruby scripts |
 
 ---
 
