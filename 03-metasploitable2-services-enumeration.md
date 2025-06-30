@@ -120,5 +120,3 @@ This report documents the initial reconnaissance and service enumeration of the 
 ---
 
 _This document is part of a cybersecurity home lab series by Abdulrahman Said._
-
-![Screenshot 2025-06-29 233500](https://github.com/user-attachments/assets/9491b0dc-cd4b-4a72-a885-584273a27195)
